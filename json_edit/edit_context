@@ -1,0 +1,5 @@
+需更改 "lifecycle_events" 下.sh檔之內容， 替換所要執行之.sh檔
+
+flavour_key ：建制vm時配置
+vnfPackageLocation：github網址 or server位置
+
