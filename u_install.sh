@@ -18,7 +18,7 @@ source bin/activate
 git clone https://github.com/allenw84/vm_enviroment.git #download and unzip
 tar zxvf vm_enviroment/unicast.tar.gz
 
-#cd unicast
+cd unicast
 pip3 install -r requirements.txt #install the kit
 sleep 5
 python app.py
