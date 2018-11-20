@@ -2,7 +2,7 @@
 
 #multicast python3
 #sudo add-apt-repository ppa:fkrull/deadsnakes
-sudo apt-get update && sudo apt-get -y install python3.5  (already installed)
+sudo apt-get update && sudo apt-get -y install python3.5  #(already installed)
 
 wget https://bootstrap.pypa.io/get-pip.py  #install pip
 sudo python3 get-pip.py 
