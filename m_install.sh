@@ -21,4 +21,4 @@ tar zxvf vm_enviroment/multicast.tar.gz
 cd multicast
 #pip3 install -r requirements.txt #install the kit
 sleep 5
-python server.py
+#python server.py
