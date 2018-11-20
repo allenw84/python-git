@@ -18,7 +18,7 @@ source bin/activate
 git clone https://github.com/allenw84/vm_enviroment.git #download and unzip
 tar zxvf vm_enviroment/multicast.tar.gz
 
-#cd multicast
+cd multicast
 #pip3 install -r requirements.txt #install the kit
 sleep 5
 python server.py
