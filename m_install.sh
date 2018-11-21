@@ -11,8 +11,8 @@ python3 -m venv multicastenv
 cd multicastenv
 source bin/activate
 
-git clone https://github.com/allenw84/vm_environment.git
-tar zxvf vm_environment/multicast.tar.gz
+git clone https://github.com/allenw84/python-git.git
+tar zxvf python-git/multicast.tar.gz
 
 cd multicast
 sleep 5
