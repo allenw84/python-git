@@ -11,7 +11,7 @@ source bin/activate
 git clone https://github.com/allenw84/python-git.git
 tar zxvf python-git/unicast.tar.gz
 cd unicast
-sudo pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 sleep 5 
 python app.py
 
