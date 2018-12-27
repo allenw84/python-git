@@ -10,7 +10,7 @@ cd unicastenv
 source bin/activate
 git clone https://github.com/allenw84/python-git.git
 tar zxvf python-git/xnicast.tar.gz
-cd unicast2
+cd xnicast
 pip3 install -r requirements.txt
 sleep 5 
 python app.py
