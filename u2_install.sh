@@ -15,10 +15,10 @@ python3 -m venv unicastenv
 cd unicastenv
 source bin/activate
 
-git clone https://github.com/allenw84/vm_enviroment.git #download and unzip
-tar zxvf vm_enviroment/unicast2.tar.gz
+git clone https://github.com/allenw84/python-git.git #download and unzip
+tar zxvf python-git.git/unicast2.tar.gz
 
-#cd unicast
+cd unicast
 pip3 install -r requirements.txt #install the kit
 sleep 5
 python app.py
