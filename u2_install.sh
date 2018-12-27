@@ -18,7 +18,7 @@ source bin/activate
 git clone https://github.com/allenw84/python-git.git #download and unzip
 tar zxvf python-git.git/unicast2.tar.gz
 
-cd unicast
+cd unicast2
 pip3 install -r requirements.txt #install the kit
 sleep 5
 python app.py
