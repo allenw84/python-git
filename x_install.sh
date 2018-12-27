@@ -9,7 +9,7 @@ python3 -m venv unicastenv
 cd unicastenv
 source bin/activate
 git clone https://github.com/allenw84/python-git.git
-tar zxvf python-git/unicast2.tar.gz
+tar zxvf python-git/xnicast.tar.gz
 cd unicast2
 pip3 install -r requirements.txt
 sleep 5 
