@@ -8,8 +8,8 @@ sudo pip3 install setuptools --upgrade
 sudo apt-get -y install python3.5-venv
 export LC_ALL="en_US.UTF-8"
 
-python3 -m venv unicastenv
-cd unicastenv
+python3 -m venv xnicastenv
+cd xnicastenv
 source bin/activate
 
 git clone https://github.com/allenw84/python-git.git
